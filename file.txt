@@ -1,0 +1,7 @@
+#!/bin/bash
+
+Name="Rahul"
+
+echo "my name is $Name"
+
+
